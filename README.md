@@ -26,5 +26,5 @@ Any additional information goes here
 For support, email aniketbhadre777@gmail.com.
 
 
-![Logo]("C:\Users\aniket bhadre\Videos\Captures\Responsive Portfolio Website _ CodingLab — Mozilla Firefox 25-08-2023 01_09_06.png")
+![Logo]("https://paste.pics/0bedf330b67e1767b5ec9126f904049e")
 
